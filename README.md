@@ -1,0 +1,2 @@
+# tradingview-copy
+Tradingplatform
